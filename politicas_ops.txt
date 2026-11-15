@@ -1,0 +1,11 @@
+[POLÍTICA 01 - CANCELAMENTO POR ATRASO]
+Pedidos com atraso superior a 45 minutos após o horário estimado de entrega podem ser cancelados pelo cliente sem custo. Se o pedido já estiver em rota com entregador parceiro, o restaurante recebe o repasse integral, desde que o despacho tenha ocorrido dentro do tempo de preparo acordado.
+
+[POLÍTICA 02 - EMBALAGEM E AVARIAS]
+Produtos líquidos ou quentes exigem lacre de segurança inviolável e embalagem dupla. Em caso de vazamento reportado com foto pelo cliente, o reembolso é debitado do repasse do restaurante caso não haja comprovação de embalagem adequada.
+
+[POLÍTICA 03 - REPASSE FINANCEIRO]
+Os repasses financeiros ocorrem toda quarta-feira referentes aos pedidos concluídos entre segunda e domingo da semana anterior. Antecipações têm taxa administrativa de 1,99% sobre o valor líquido.
+
+[POLÍTICA 04 - PAUSA DE LOJA E DISPONIBILIDADE]
+O parceiro pode pausar a loja pelo Gestor de Pedidos por até 2 horas diárias sem impacto no algoritmo de ranqueamento. Pausas recorrentes acima desse limite reduzem a visibilidade na vitrine do aplicativo.
