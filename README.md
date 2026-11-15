@@ -1,5 +1,6 @@
 # Partner Ops AI — Assistente Inteligente de Operações
-
+ **Aplicação Online (Live Demo):** [Acessar Partner Ops AI](https://ifood-partner-agent-9nbuysr7gyzgqho95vti7l.streamlit.app)
+ 
 Agente de IA conversacional projetado para apoiar restaurantes parceiros em dúvidas operacionais, financeiras e logísticas, combinando **RAG (Retrieval-Augmented Generation)**, **Guardrails anti-alucinação**, **Resiliência multi-modelo** e **Observabilidade LLMOps**.
 
 ---
@@ -19,3 +20,5 @@ Agente de IA conversacional projetado para apoiar restaurantes parceiros em dúv
         │         └── gemini-3.8-flash ──► gemini-3.8-flash-lite ──► gemini-3.5-flash
         └──► 4. Telemetria de Inferência (LLMOps)
                   └── Latência (ms), contagem de tokens e scores de recuperação
+```
+ 
